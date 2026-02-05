@@ -58,7 +58,7 @@ header .wrapper {
   border-radius: 8px;
   padding: 16px;
 
-  flex-basis: 15%;
+  overflow: hidden;
 
   transition: all 150ms ease-in;
 }
